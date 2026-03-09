@@ -29,8 +29,7 @@ The script also provides:
 
 ---
 
-[Project Page URL
-https://roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)
+Project Page URL  https://roadmap.sh/projects/server-stats
 
 ---
 
