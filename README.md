@@ -29,9 +29,8 @@ The script also provides:
 
 ---
 
-## Project Page URL
-
-https://github.com/bhrateshd/roadmap/
+Project Page URL
+https://roadmap.sh/projects/server-stats
 
 ---
 
